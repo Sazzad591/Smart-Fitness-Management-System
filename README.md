@@ -55,22 +55,25 @@ The **Smart Fitness Management System (SFMS)** is a Python desktop application b
 ## Screenshots
 
 ### Main Window
-(screenshots/1.png)
+![Main Window](SS/1.png)
 
 ### User Management
-(screenshots/2.png)
+![User Management](SS/2.png)
 
 ### Workout Tracking Module
-(screenshots/3.png)
+![Workout Tracking](SS/3.png)
 
 ### Goal Tracking Module
-(screenshots/4.png)
+![Goal Tracking](SS/4.png)
 
 ### Nutrition Tracking Module
-(screenshots/5.png)
+![Nutrition Tracking](SS/5.png)
 
-### Reports & Analytics
-![Reports](screenshots/6.png)
+### Reports
+![Reports](SS/6.png)
+
+### Analytics
+![Analytics](SS/7.png)
 
 ## Contributing
 
